@@ -23,7 +23,7 @@ This will include the following topics:
 
 Each of these features is required to build our very own ChatGPT application.
 
-Nearly three years ago, ChatGPT was released to the world—it was the fastest-growing app the world had ever seen. At the time, it was just an LLM with a front end.
+Nearly three years ago, ChatGPT was released to the world - it was the fastest-growing app the world had ever seen. At the time, it was just an LLM with a front end.
 
 Now, it's so much more.
 
